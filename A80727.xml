@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The red-ribbond news from the army. In a discourse between a minister and a souldier of the state. / Written from thence by a minister of Gods holy Word in the county of Suffolk, who loveth a souldier as he doth his own life: the characters of his name T.C.</title>
+            <author>T. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80727</idno>
+            <idno type="STC">Wing C6711A</idno>
+            <idno type="STC">Thomason E390_2</idno>
+            <idno type="STC">ESTC R201527</idno>
+            <idno type="EEBO-CITATION">99862026</idno>
+            <idno type="PROQUEST">99862026</idno>
+            <idno type="VID">160248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160248)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E390[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The red-ribbond news from the army. In a discourse between a minister and a souldier of the state. / Written from thence by a minister of Gods holy Word in the county of Suffolk, who loveth a souldier as he doth his own life: the characters of his name T.C.</title>
+                  <author>T. C.</author>
+                  <author>Coxcombe, T.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.S.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to T. Coxcombe.</note>
+                  <note>Annotation on Thomason copy: T.C. expanded to T. C"oxcombe"; "May 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  Religious life --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160248:1" rendition="simple:additions"/>
+            <p>THE RED-RIBBOND News from the Army.</p>
+            <p>In a Diſcourſe between a Miniſter and a Souldier of the State.</p>
+            <p>Written from thence by a Miniſter of Gods holy Word in the County of Suffolk, who loveth a Souldier as he doth his own life: The Characters of his name <hi>T. Cox</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>M. S.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:160248:2"/>
+            <pb n="3" facs="tcp:160248:2"/>
+            <head>A Dialogue between a Miniſter, and a Souldier of the State.</head>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>GEntleman Souldier, you are well met, may I be ſo bold as to exchange a word or two with you?</p>
+            </sp>
+            <sp>
+               <speaker>Souldier.</speaker>
+               <p>Whereabout, or what is your will good ſir?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>You have been, I ſuppoſe, ſometime in the Service of the State, have you not?</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Truely ſir, I have ſerved the King and State theſe five years and upwards, I have been in all the fights ever ſince <hi>Keinton</hi> field, or the battle at <hi>Edgehill.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Very well: you are much to be honoured for your zeal to God, and to your Country. And now without offence, I would be much beholding unto you if I might propound a queſtion or two unto you.</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Good ſir, ſpeak and ſpare not: I ſhall give ſuch anſwers as my poor <hi>Genius</hi> ſhall enable me. And if I fail in any materiall thing, I hope, of your Chriſtian Charity you will bear with me, and give me good advice.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I ſhall do both moſt willingly: And firſt I pray you tell me were you impreſt or went you a volunteer into the Service of the State?</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>I always ſcorned compulſion: I went out freely for my King and Countries good.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Bleſſed be God. But I pray you what enemies went you out againſt? What to fight againſt your King?</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>No forſooth, but againſt his Majeſties and the Kingdoms enemies againſt thoſe that have ſet the three Nations in combuſtion: They have committed many out-rages, and did patronize all under his Majeſties authority: Had theſe been delivered up to juſtice, then all hoſtility on this part, had long ſince ceaſed, and ſo much Chriſtian blood had not been ſpilt.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>But with what good conſcience could you take up Arms againſt the Kings party?</p>
+               <pb n="4" facs="tcp:160248:3"/>
+               <p>The Kings party is two wayes to be conſidered,</p>
+               <p n="1">1. Either as his Majeſties perſon may be engaged by meer ſu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pr<g ref="char:EOLhyphen"/>zall onely.</p>
+               <p n="2">2. Or as he may engage himſelf by voluntary conſent, whereby he may be ſaid to be ſurprized in his judgement alſo.</p>
+               <p n="1">1. For the firſt, the caſe is cleer, <hi>viz.</hi> That Armes may, nay muſt be taken up by all good ſubjects (alleigeance binding them therunto) to diſ-ingage his Majeſties perſon, howſoever, or by whomſoever it may be in danger of ſurprizing, or be actually ſurprized. Some<g ref="char:EOLhyphen"/>what to this purpoſe is <hi>Abiſhai</hi> his reſtoring <hi>Davids</hi> perſon from <hi>Iſhbi-benob,</hi> when ſlaughter or ſurprizall was juſtly to be feared, 2 Sam. 21. 16. &amp;c.</p>
+               <p n="2">2. And for the ſecond, though it were not his Majeſties caſe di<g ref="char:EOLhyphen"/>rectly, (for no good ſubject judging of his Majeſties waies, by the Law and rule of charity as things have ſtood, can ſuppoſe the ſame ſo to be) but grant it were ſo yet where this voluntary conſent is not regulated in the judgement of the Grand Councell of the Kingdome (which ought to be judge next under God and his Word to examine and determine all queries in the State) In this caſe Armes might be taken up by the advice and authority of that grand Councell, rather then the whole ſhould wrack and come to ruin. And this maketh the caſe cleer, That Armes were not taken up againſt the perſon of the King, not againſt his Politick power, nor againſt a Legall party; but againſt an unruly rout, that having ſurprized his Majeſties perſon, or his judgement, or both, by force, or flattery, to work their own ends, and the Kingdomes wo. And his Majeſty himſelf hath granted, That the Parliament hath more then power ſufficient to take up Armes in their juſt defence, for the Kingdomes ſafety, and to bring Del<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nquents unto juſtice, which is an unanſwerable Argument to prove the legality of the Defenſive War, and to juſtifie the Parlia<g ref="char:EOLhyphen"/>ment againſt all depravers, it being directly concluded <hi>a conceſſis.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>But what think you, can the King and Parliament be ſe<g ref="char:EOLhyphen"/>vered?</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Under correction, I think they cannot as the caſe now ſtandeth, God and the Law hath conjoyned them, and what God and the Law have ſo happily conjoyned let no man go about to put aſunder. Whereſoever the perſon of his Majeſty is, where ſhall we ſeek his politick power, but in that place and with thoſe faithfull Councellors, to which himſelf by a ſacred law hath confirmed and
+<pb n="5" facs="tcp:160248:3"/> confined it? For beſides the Lawfull call of this preſent Parliament, which is common to this with precedent Parliaments: we are to conſider the Solemn Confirmation of it, wherein it differeth from all Parliaments that have gone before. I ſay the confirmation of it in its full Authority, and with all its Rights, and Priviledges. This maketh the caſe ſtrong and the Kingdomes Armies that have been all this time on foot, were at the firſt raiſed to maintain this Act, to defend this Title.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Sir, I perceive you are rightly ſtated in the caſe. I did not expect to hear ſo good an account from you: I am afraid there are not many more in all the Army, can give the like ſatisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Beleeve me Sr, I am the weakeſt of many thouſands; there are many of moſt able parts, and can ſpeak of this or of any other ſubject, humane or divine, to admiration. And I confeſſe I was a lit<g ref="char:EOLhyphen"/>tle principled before I went out, by hearing ſome good Divines as you are. And have been much confirmed by ſome of our Noble Commanders, and by ſome of my fellow Souldiers. Do you ſee, good Sir, in my head, face, and other Viſible parts, the wounds I have re<g ref="char:EOLhyphen"/>ceived at <hi>York, Naſeby,</hi> and other fights?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I ſee them well, I would not have you call them wounds, but glorious marks and characters of a valiant and undaunted mind: Bleſſed be God who hath preſerved you, you ſacrificed your life for his Glory, and he hath preſerved it moſt miraculouſly as appeareth unto me.</p>
+               <p>But good ſir, what is the matter now? much rumour is in the Country, and ſome cauſe of fears. Certainly there are ſome projects intended by the Souldery, witneſs both words and ſigns. A Cove<g ref="char:EOLhyphen"/>nant (it is ſaid) is made by them; and what means the <hi>Red Ribbond</hi> on each ſouldiers left arm?</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>I make no queſtion but you have heard of a <hi>Petition</hi> ſent by us, and ſlighted by the Parliament; and the Ribbond ſheweth that we will defend the equity of our <hi>Petition</hi> with our blood.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Slighted? I beleeve it not. It may be it was not humble enough, or not ſeaſonable at this time; and I am to ſeek ſufficient warrant for your defence thereof in that manner as you have ſaid, and ſo I think are you. For where is your Commiſſion, or by what authority ſhall you mannage that defence (as you call it?)</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Have we not authority, think you?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>No truly: you have neither King nor State to enable you
+<pb n="6" facs="tcp:160248:4"/> to ſuch an enterprize.</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Then we wil have: for ſeeing our chief Commanders fail and fail off from us, we wil to his Majeſty, and make him our General; and we are ſure he will give us Commiſſion.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You are not ſure of that: And we hope his Majeſty is in<g ref="char:EOLhyphen"/>clining to an accord: If otherwiſe; make his Majeſty your Gene<g ref="char:EOLhyphen"/>ral? To what end? God hath bleſſed the State with moſt glorious ſucc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, that there is, in a manner, a full and perfect Conqueſt of all the old enemies of the Kingdom: and (in all likelyhood) the way is thereby layd open to a full period of the preſent Hoſtility, for which every Soldier deſerveth the Laurel, an eternal, an immortal Trophie: And ſhal they now think of a means to blaſt their fore<g ref="char:EOLhyphen"/>paſt glory by blowing the coals again, and by kindling a new Com<g ref="char:EOLhyphen"/>buſtion out of the embers of the old Diſtraction? God forbid. Wil this ſtand with conſcience? Certainly it cannot: For ſubjection is peremptorily commanded by Saint <hi>Paul</hi> unto the Higher Powers, <hi>Rom.</hi> 13. 1, And where is the full politick Power now but in the King and Parliament conjunction? God and the Law hath con<g ref="char:EOLhyphen"/>joyned them &amp;c. they are your own words. The Parliament doth nothing but by his Majeſties authority conferred on them, or confir<g ref="char:EOLhyphen"/>med to them: and his Majeſty can do nothing legally that concer<g ref="char:EOLhyphen"/>neth the Publick Intereſt without the advice of his great Councel conveened and confirmed for that purpoſe. This Kingdom, though a Monarchy, is not an abſolute but a mixt Monarchy; of all Monar<g ref="char:EOLhyphen"/>chies the beſt. An abſolute Monarchy doth eaſily degenerate into a tyranny, if not law, but will doe guide the Steerage: but a mixt Monarchy hath power in it ſelf to keep out or to ſuppreſs Tyranny: And whatſoever is commanded by full authority of the Power muſt be obeyed for conſcience ſake, <hi>Rom.</hi> 13. 5. obeyed (I ſay) either by doing the thing commanded, if lawful: or by ſubmitting unto puniſhment: And for this the caſe of the three children is very remarkable, <hi>Nebuchadnezzars</hi> command was unlawful, yet they made no reſiſtance, but ſubmitted to the cenſure and ſentence of the King, <hi>Dan.</hi> 3. 16. And I would propound this thing unto Con<g ref="char:EOLhyphen"/>ſcience, <hi>viz.</hi> By what right, either humane or divine, the Soldiers can either oppoſe that power which they have hitherto defended and upheld as lawful? Or ſide with and ſet up that power which til now they have reſiſted as illegal and unjuſt? Certainly it is not upon any new grounds and principles of Conſcience, for it appeareth plainly
+<pb n="7" facs="tcp:160248:4"/> to be meerly upon Diſcontents, which wil not bear them out at and before the great Tribunal. And good Souldier mark this, ei<g ref="char:EOLhyphen"/>ther all your undertakings hitherto in the ſervice of the State have been unlawful, which none can prove: or your intended purpoſe (if it be really intended by you) is Illegal, and wil prove deſtructive unto Church and State, of which (I hope) you wil conſider: and not hazzard the undoing of all that you have wel done, for indi<g ref="char:EOLhyphen"/>rect and ſiniſter ends.</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Sir, I thank you, I am ſenſible of what you have now ſay<g ref="char:EOLhyphen"/>ed. But I pray you reſolve me in this; may not we Souldiers go and fetch his Majeſty from Holmby, and carry him to his place in Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>What <hi>vi &amp; Armis?</hi> and without Authority? we do all wiſh wel to his Majeſty. I know not one godly man that doth not wiſh his Majeſtie there, even in the height and ſummity of his Honnour. But where is the let, the main obſtruction?</p>
+               <p n="1">1. Is not the great Councel wiſe enough to frame the beſt condi<g ref="char:EOLhyphen"/>tions both of his Majeſties, and of the Kingdomes ſafety, by his coming thither?</p>
+               <p n="2">2. Hath not the Parliament been ſolicitous, obſequious enough to ſeek, and ſue for his Majeſties royal favour in this kind?</p>
+               <p n="3">3. Are not both houſes conſcientious enough to provide for the honour of the King, and for the ſafety of the Kingdome?</p>
+               <p>What needeth then ſuch indirect, and inconſiderate means? The Souldiers to bring his Majeſtie (if it be in their power) in a diſtempered Paſſion, cannot ſound wel: it muſt of neceſſity, por<g ref="char:EOLhyphen"/>tend ſome intended, or acceſſory miſchief. I pray you conſider what the bleſſed Apoſtle ſaith. The wrath of man worketh not the righteouſneſs of God, Iames. 1. 20.</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Bleſſed be God for this your good, and ſound advice. I have but one thing more to ſay. What if we have not all our A<g ref="char:EOLhyphen"/>reers?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I confeſs I admire and mourn to heare it, great words are ſpoken by many of the Souldery. But let me ſpeak my mind freely. If that be the only, or the main ground work of the Souldiers inten<g ref="char:EOLhyphen"/>tions, then both in all the good that they have wel done: and in whatſoever they ſhal do il, they are but <hi>meerly mercenary,</hi> which (I confeſs) is but a baſe term, if deſerved by <hi>Military men.</hi> It would appear that they aym only at ſelf-ends, and intend not the
+<pb n="8" facs="tcp:160248:5"/> common, the publick good; It is heartily wiſhed by all men that the Soldiers had their full content: they have deſerved wel, and no doubt but they ſhal be wel conſidered. But if full ſatisfaction cannot be given, or not ſo ſoon as is deſired, let not the Soldiers run a hazzard of Rebellion, for that would eclips the glory of all their former valorous atchievements. Gentlemen Soldiers prize the common good above and before you own particular advantages; and make not another combuſtion to obtain your own ends, though never ſo juſt and honeſt. We praiſe God for what you have done for the pub<g ref="char:EOLhyphen"/>lick: The glory of your victories wil be recorded to after genera<g ref="char:EOLhyphen"/>tions to your eternal fame. And we pray for you, and withal entreat you in the name of Chriſt and in the behalf of the Chriſtian Reli<g ref="char:EOLhyphen"/>gion to ſet yout eys upon the common good before your own parti<g ref="char:EOLhyphen"/>cular intereſts. If ye intend not good to bleeding <hi>Ireland</hi> by your perſonal undertakings, then ſit down in quiet and hinder it not by diſtractions: take not off the Parliament from expediting Recruits thither, leſt all the Proteſtant blood which ſhal be ſhed there cry to heaven againſt you. The State is wiſe, and ſenſible of your good ſer<g ref="char:EOLhyphen"/>vices, and wil give ſatisfaction to their power, beyond which more cannot be expected much leſs exacted by men that are truly conſci<g ref="char:EOLhyphen"/>entious, to whom the publick good is and ought to be more pretious then their own. What ſay you Gentleman have I not ſpoken reaſon?</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Truly, Sr, you have ſpoken reaſon and Religion too: I am fully ſatisfied. I pray you make this diſcourſe publick and no que<g ref="char:EOLhyphen"/>ſtion but it wil give us all content.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Say you ſo? I wil take pen and paper and write <hi>verbatim</hi> and ſend it for Impreſſion.</p>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <p>Sir, I thank you, and I hope the whole Army wil praiſe God for your good councel and ſit down in peace.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
